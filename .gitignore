@@ -1,0 +1,18 @@
+# OpenClaw Backup - .gitignore
+.openclaw/
+.clawhub/
+backups/
+sessions/
+memory/
+knowledge-base/
+MEMORY.md
+openclaw.json*
+credentials/
+logs/
+delivery-queue/
+subagents/
+telegram/
+update-check.json
+.ssh/
+*.bak
+*.log
